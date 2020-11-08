@@ -16,8 +16,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Research skills
+    progress: 80%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
@@ -84,7 +84,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
